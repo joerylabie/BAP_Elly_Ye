@@ -1,8 +1,8 @@
-import { StyleSheet, View, Text, Image } from 'react-native';
+import { StyleSheet, View, Text } from 'react-native';
 import { Entypo } from '@expo/vector-icons';
 
 
-export default function Card({ title, imageUrl }) {
+export default function Card({ title }) {
   return(
     <View style={styles.cardBox}>
     <View style={styles.titleContainer}>
