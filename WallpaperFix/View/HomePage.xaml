@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WallpaperFix.View.HomePage"
+             Title="HomePage">
+        <ScrollView  Margin="20">
+        <VerticalStackLayout >
+
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+            <Image Source="img1.jpg"></Image>
+            <Image Source="img2.jpg"></Image>
+            <Image Source="img3.png"></Image>
+            <Image Source="img5.jpg"></Image>
+        </VerticalStackLayout>
+
+    </ScrollView>
+
+</ContentPage>
